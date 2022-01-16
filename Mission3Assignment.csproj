@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Mission2Assignment' " />
   <ItemGroup>
     <Content Remove="wwwroot\" />
     <Content Remove="wwwroot\img\" />
@@ -21,10 +22,20 @@
     <Folder Include="wwwroot\lib\" />
     <Folder Include="wwwroot\lib\bootstrap\" />
     <Folder Include="wwwroot\lib\jquery\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Blah\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="wwwroot\js\gradeCalc.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="New Folder\" />
+    <None Remove="Views\Blah\" />
+    <None Remove="Controllers\" />
+    <None Remove="Models\" />
   </ItemGroup>
 </Project>

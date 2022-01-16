@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewmazankowski/Projects/Mission2Assignment/Mission2Assignment/Mission2Assignment.csproj",
-      "projectName": "Mission2Assignment",
-      "projectPath": "/Users/matthewmazankowski/Projects/Mission2Assignment/Mission2Assignment/Mission2Assignment.csproj",
+      "projectUniqueName": "/Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/Mission3Assignment.csproj",
+      "projectName": "Mission3Assignment",
+      "projectPath": "/Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/Mission3Assignment.csproj",
       "packagesPath": "/Users/matthewmazankowski/.nuget/packages/",
-      "outputPath": "/Users/matthewmazankowski/Projects/Mission2Assignment/Mission2Assignment/obj/",
+      "outputPath": "/Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/matthewmazankowski/.config/NuGet/NuGet.Config"

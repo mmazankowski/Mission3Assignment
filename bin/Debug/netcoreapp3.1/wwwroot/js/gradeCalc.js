@@ -1,16 +1,11 @@
-﻿
-//document.getElementById("btnSend").addEventListener("click", function () { alert("hello world") })
-
-//console.log("hello world")
-
-$("#btnSend").click(function () {
+﻿$("#btnSend").click(function () {
     var a = $("#numAssign").val();
     var b = $("#numGroup").val();
     var c = $("#numQuiz").val();
     var d = $("#numExam").val();
     var e = $("#numIntex").val();
     var final_percent = (a * .55) + (b * .05) + (c * .10) +
-        (d * .20) + (e * .05);
+        (d * .20) + (e * .10);
     final_percent = final_percent.toFixed(2);
 
     if (final_percent <= 100 && final_percent > 93) {
