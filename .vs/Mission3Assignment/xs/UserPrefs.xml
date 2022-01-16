@@ -1,0 +1,33 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E0AF72A7-3102-4C5F-8D2D-269B40B2A680}|Mission2Assignment">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="wwwroot/js/gradeCalc.js" Line="1" Column="1" />
+      <File FileName="Views/Blah/Index.cshtml" Line="20" Column="14" />
+      <File FileName="Controllers/BlahController.cs" Line="20" Column="1" />
+      <File FileName="Startup.cs" Line="19" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission3Assignment" expanded="True">
+            <Node name="Mission3Assignment" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BlahController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Blah" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mission3Assignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
