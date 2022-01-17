@@ -11,9 +11,14 @@ namespace Mission3Assignment.Controllers
     public class BlahController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public IActionResult Index ()
         {
             return View();
+        }
+
+        public IActionResult gradeCalcPage ()
+        {
+            return View(); 
         }
     }
 }

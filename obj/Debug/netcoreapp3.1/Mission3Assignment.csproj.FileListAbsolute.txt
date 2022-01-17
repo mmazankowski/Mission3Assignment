@@ -30,3 +30,7 @@
 /Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/Debug/netcoreapp3.1/Mission3Assignment.RazorTargetAssemblyInfo.cs
 /Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/Debug/netcoreapp3.1/Mission3Assignment.Views.pdb
 /Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/Debug/netcoreapp3.1/Mission3Assignment.csproj.CopyComplete
+/Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/Debug/netcoreapp3.1/Razor/Views/Blah/gradeCalcPage.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission3Assignment/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
